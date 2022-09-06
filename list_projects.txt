@@ -1,0 +1,5574 @@
+[
+    {
+        "url": "https://github.com/public-apis/public-apis",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/donnemartin/system-design-primer",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/TheAlgorithms/Python",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/vinta/awesome-python",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/jackfrued/Python-100-Days",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ytdl-org/youtube-dl",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/tensorflow/models",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/nvbn/thefuck",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/huggingface/transformers",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/django/django",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/pallets/flask",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/521xueweihan/HelloGitHub",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/keras-team/keras",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/josephmisiti/awesome-machine-learning",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/home-assistant/core",
+        "branch": "dev"
+    },
+    {
+        "url": "https://github.com/ansible/ansible",
+        "branch": "devel"
+    },
+    {
+        "url": "https://github.com/scikit-learn/scikit-learn",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/psf/requests",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/tiangolo/fastapi",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/python/cpython",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/3b1b/manim",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/soimort/you-get",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/scrapy/scrapy",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/minimaxir/big-list-of-naughty-strings",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/fighting41love/funNLP",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/deepfakes/faceswap",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Textualize/rich",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/commaai/openpilot",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/isocpp/CppCoreGuidelines",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pandas-dev/pandas",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/faif/python-patterns",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/sherlock-project/sherlock",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/iperov/DeepFaceLab",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/d2l-ai/d2l-zh",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/0voice/interview_internal_reference",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/apachecn/ailearning",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/shadowsocks/shadowsocks",
+        "branch": "rm"
+    },
+    {
+        "url": "https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/google-research/bert",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/getsentry/sentry",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/satwikkansal/wtfpython",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/XX-net/XX-Net",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/testerSunshine/12306",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/chubin/cheat.sh",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/gto76/python-cheatsheet",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/ultralytics/yolov5",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/yt-dlp/yt-dlp",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/certbot/certbot",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/fxsjy/jieba",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/psf/black",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/mitmproxy/mitmproxy",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/openai/gym",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/bregman-arie/devops-exercises",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/apache/airflow",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/0xAX/linux-insides",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/hankcs/HanLP",
+        "branch": "doc-zh"
+    },
+    {
+        "url": "https://github.com/geekcomputers/Python",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/donnemartin/interactive-coding-challenges",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/facebookresearch/Detectron",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/mingrammer/diagrams",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/yunjey/pytorch-tutorial",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/sqlmapproject/sqlmap",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ycm-core/YouCompleteMe",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/explosion/spaCy",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/encode/django-rest-framework",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/PaddlePaddle/PaddleOCR",
+        "branch": "release/2.5"
+    },
+    {
+        "url": "https://github.com/babysor/MockingBird",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/donnemartin/data-science-ipython-notebooks",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pypa/pipenv",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/httpie/httpie",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/google/python-fire",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/beurtschipper/Depix",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/tqdm/tqdm",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/littlecodersh/ItChat",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/matterport/Mask_RCNN",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/facebookresearch/detectron2",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/getredash/redash",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ray-project/ray",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/keon/algorithms",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/StevenBlack/hosts",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/OWASP/CheatSheetSeries",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/wangzheng0822/algo",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/numpy/numpy",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/nicolargo/glances",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/python-poetry/poetry",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/open-mmlab/mmdetection",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/sebastianruder/NLP-progress",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/tornadoweb/tornado",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/microsoft/cascadia-code",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/TencentARC/GFPGAN",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/deezer/spleeter",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/streamlit/streamlit",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/Z4nzu/hackingtool",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/rwightman/pytorch-image-models",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/celery/celery",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/google/jax",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/Lightning-AI/lightning",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/charlax/professional-programming",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/locustio/locust",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/drduh/macOS-Security-and-Privacy-Guide",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/python-telegram-bot/python-telegram-bot",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/chubin/wttr.in",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/vnpy/vnpy",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/jumpserver/jumpserver",
+        "branch": "dev"
+    },
+    {
+        "url": "https://github.com/facebookresearch/fairseq",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/freqtrade/freqtrade",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/pytorch/examples",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/heartexlabs/labelImg",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/magenta/magenta",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/cookiecutter/cookiecutter",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/luong-komorebi/Awesome-Linux-Software",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/plotly/dash",
+        "branch": "dev"
+    },
+    {
+        "url": "https://github.com/saleor/saleor",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/bokeh/bokeh",
+        "branch": "branch-3.0"
+    },
+    {
+        "url": "https://github.com/chriskiehl/Gooey",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/sanic-org/sanic",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/nginx-proxy/nginx-proxy",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/zulip/zulip",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/reddit-archive/reddit",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/matplotlib/matplotlib",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/spotify/luigi",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/AtsushiSakai/PythonRobotics",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/jhao104/proxy_pool",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/binux/pyspider",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/openai/gpt-2",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ipython/ipython",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/JaidedAI/EasyOCR",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/kovidgoyal/kitty",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/quantopian/zipline",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/jantic/DeOldify",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pyg-team/pytorch_geometric",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Vonng/ddia",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/jina-ai/jina",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Jack-Cherish/python-spider",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/cool-RR/PySnooper",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/alievk/avatarify-python",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/miloyip/game-programmer",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ungoogled-software/ungoogled-chromium",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/magic-wormhole/magic-wormhole",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/kivy/kivy",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/facebook/prophet",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/RasaHQ/rasa",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/mkdocs/mkdocs",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/joke2k/faker",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/InstaPy/InstaPy",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/AnthonyCalandra/modern-cpp-features",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Kr1s77/awesome-python-login-model",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/d2l-ai/d2l-en",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/kholia/OSX-KVM",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/rsms/inter",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/wting/autojump",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ArchiveBox/ArchiveBox",
+        "branch": "dev"
+    },
+    {
+        "url": "https://github.com/wangshub/wechat_jump_game",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/huggingface/datasets",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/microsoft/recommenders",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/jupyter/jupyter",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/mnielsen/neural-networks-and-deep-learning",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/h2y/Shadowrocket-ADBlock-Rules",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/python/mypy",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/fabric/fabric",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/twintproject/twint",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/RaRe-Technologies/gensim",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/powerline/powerline",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/youfou/wxpy",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/microsoft/WSL",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/trekhleb/learn-python",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/kovidgoyal/calibre",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/openai/baselines",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/aleju/imgaug",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pallets/click",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/NVlabs/stylegan",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/apprenticeharper/DeDRM_tools",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/google/yapf",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/aio-libs/aiohttp",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/aws/aws-cli",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/psf/requests-html",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/saltstack/salt",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/horovod/horovod",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/davidsandberg/facenet",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pyecharts/pyecharts",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/eriklindernoren/PyTorch-GAN",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/xinntao/Real-ESRGAN",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/wagtail/wagtail",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/tensorflow/tensor2tensor",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/gunthercox/ChatterBot",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/521xueweihan/GitHub520",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/Delgan/loguru",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/hindupuravinash/the-gan-zoo",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/mlflow/mlflow",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/deepinsight/insightface",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/leisurelicht/wtfpython-cn",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Textualize/textual",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/lra/mackup",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pytorch/vision",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/borisdayma/dalle-mini",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/sivel/speedtest-cli",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/codelucas/newspaper",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ranger/ranger",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/flairNLP/flair",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/plotly/plotly.py",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Miserlou/Zappa",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/equinusocio/material-theme",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/postmanlabs/httpbin",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/lucidrains/vit-pytorch",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/nltk/nltk",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/wifiphisher/wifiphisher",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Chia-Network/chia-blockchain",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/idank/explainshell",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pittcsc/Summer2023-Internships",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/netbox-community/netbox",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/NVIDIA/FastPhotoStyle",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ManimCommunity/manim",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/hoya012/deep_learning_object_detection",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/redis/redis-py",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/samuelcolvin/pydantic",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/s0md3v/XSStrike",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/asciinema/asciinema",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/donnemartin/awesome-aws",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/dbcli/pgcli",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/jina-ai/clip-as-service",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/lengstrom/fast-style-transfer",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/dbcli/mycli",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/programthink/zhao",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Ciphey/Ciphey",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/PySimpleGUI/PySimpleGUI",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/threat9/routersploit",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/wistbean/learn_python3_spider",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/frida/frida",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/chiphuyen/stanford-tensorflow-tutorials",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/albumentations-team/albumentations",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Embedding/Chinese-Word-Vectors",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/dask/dask",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/zalandoresearch/fashion-mnist",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/MorvanZhou/tutorials",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/wilsonfreitas/awesome-quant",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/iterative/dvc",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/dmlc/dgl",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/falconry/falcon",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/coursera-dl/coursera-dl",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/django-cms/django-cms",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/deepmind/alphafold",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/cyrus-and/gdb-dashboard",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/eriklindernoren/Keras-GAN",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/aws/serverless-application-model",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/aristocratos/bpytop",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/edgedb/edgedb",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Cadene/pretrained-models.pytorch",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/giampaolo/psutil",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/scrapinghub/portia",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/keras-team/autokeras",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pre-commit/pre-commit",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/httpie/http-prompt",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/sshuttle/sshuttle",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/nodejs/node-gyp",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/borgbackup/borg",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/tiangolo/typer",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/lauris/awesome-scala",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ludwig-ai/ludwig",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/MrS0m30n3/youtube-dl-gui",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/rq/rq",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ReFirmLabs/binwalk",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/apache/tvm",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/Yorko/mlcourse.ai",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/smicallef/spiderfoot",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/clips/pattern",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/microsoft/pyright",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/PaddlePaddle/PaddleHub",
+        "branch": "release/v2.2"
+    },
+    {
+        "url": "https://github.com/benoitc/gunicorn",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/sloria/TextBlob",
+        "branch": "dev"
+    },
+    {
+        "url": "https://github.com/alicevision/meshroom",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/UKPLab/sentence-transformers",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pypa/pip",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/rougier/scientific-visualization-book",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/openai/DALL-E",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/hardikvasa/google-images-download",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/NVIDIA/vid2vid",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/facebookresearch/pifuhd",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/hoochanlon/w3-goto-world",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/prompt-toolkit/python-prompt-toolkit",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/miguelgrinberg/flasky",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Yelp/elastalert",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/trustedsec/social-engineer-toolkit",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/secdev/scapy",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/p-e-w/maybe",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/facebookresearch/pytext",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/yenchenlin/DeepLearningFlappyBird",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/lebinh/ngxtop",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/MVIG-SJTU/AlphaPose",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/SerpentAI/SerpentAI",
+        "branch": "dev"
+    },
+    {
+        "url": "https://github.com/biancangming/wtv",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/shenweichen/DeepCTR",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/alteryx/featuretools",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/jiaaro/pydub",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/robinhood/faust",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/stanfordnlp/stanza",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/cupy/cupy",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/paralax/awesome-honeypots",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/kangvcar/InfoSpider",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pytorch/tutorials",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/rossant/awesome-math",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/marshmallow-code/marshmallow",
+        "branch": "dev"
+    },
+    {
+        "url": "https://github.com/Porchetta-Industries/CrackMapExec",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/fmfn/BayesianOptimization",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/facebookresearch/hydra",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/pallets/werkzeug",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/maxbbraun/trump2cash",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/belluzj/fantasque-sans",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/HypothesisWorks/hypothesis",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Hironsan/BossSensor",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/xmu-xiaoma666/External-Attention-pytorch",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/deis/deis",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/jazzband/pip-tools",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/openedx/edx-platform",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/donnemartin/gitsome",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ymcui/Chinese-BERT-wwm",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/encode/starlette",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Nuitka/Nuitka",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/cython/cython",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/vaexio/vaex",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/mps-youtube/mps-youtube",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/a1studmuffin/SpaceshipGenerator",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/readthedocs/readthedocs.org",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/NVlabs/SPADE",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/robotframework/robotframework",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/iperov/DeepFaceLive",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/lbryio/lbry-sdk",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/laramies/theHarvester",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/fchollet/deep-learning-models",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/OlafenwaMoses/ImageAI",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/n1nj4sec/pupy",
+        "branch": "unstable"
+    },
+    {
+        "url": "https://github.com/jazzband/django-debug-toolbar",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/seemoo-lab/opendrop",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/spyder-ide/spyder",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/jackzhenguo/python-small-examples",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/openai/spinningup",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/lukemelas/EfficientNet-PyTorch",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Megvii-BaseDetection/YOLOX",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/kkroening/ffmpeg-python",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/joelgrus/data-science-from-scratch",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/gelstudios/gitfiti",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/kivy/python-for-android",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/tensorlayer/TensorLayer",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/iGhibli/iOS-DeviceSupport",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/qqwweee/keras-yolo3",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/google/trax",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/arc298/instagram-scraper",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/luyishisi/Anti-Anti-Spider",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/PyMySQL/PyMySQL",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/ActivityWatch/activitywatch",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/asweigart/pyautogui",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Urinx/WeixinBot",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/great-expectations/great_expectations",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/hellerve/programming-talks",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/persepolisdm/persepolis",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/caronc/apprise",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/likedan/Awesome-CoreML-Models",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/gitpitch/gitpitch",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/PyGithub/PyGithub",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/MrMimic/data-scientist-roadmap",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/USArmyResearchLab/Dshell",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/tangqiaoboy/iOSBlogCN",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/chyroc/WechatSogou",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/openai/jukebox",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/SigmaHQ/sigma",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/librosa/librosa",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/openreplay/openreplay",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/mher/flower",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pypa/pipx",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/david-gpu/srez",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/liuwons/wxBot",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/i-tu/Hasklig",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/oarriaga/face_classification",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/bee-san/pyWhat",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/dbt-labs/dbt-core",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/ibab/tensorflow-wavenet",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/akfamily/akshare",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/fluentpython/example-code",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/vi3k6i5/flashtext",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/achael/eht-imaging",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/cchen156/Learning-to-See-in-the-Dark",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/msiemens/tinydb",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/shmilylty/OneForAll",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/davidhalter/jedi",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/yzhao062/anomaly-detection-resources",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/taki0112/UGATIT",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/gruns/icecream",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/tensorflow/nmt",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/aws/aws-sam-cli",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/princewen/tensorflow_practice",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/vt-vl-lab/3d-photo-inpainting",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/angr/angr",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Jack-Cherish/PythonPark",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/yzhao062/pyod",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/benbusby/whoogle-search",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/thtrieu/darkflow",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/burnash/gspread",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/OpenEthan/SMSBoom",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/scikit-learn-contrib/imbalanced-learn",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/microsoft/nlp-recipes",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/drivendata/cookiecutter-data-science",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/platformio/platformio-core",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/microsoft/unilm",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/xuebinqin/U-2-Net",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/khuedoan/homelab",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/PaddlePaddle/PaddleGAN",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/rushter/data-science-blogs",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/lancopku/pkuseg-python",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/zihangdai/xlnet",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/dataabc/weiboSpider",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/lining0806/PythonSpiderNotes",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/eternnoir/pyTelegramBotAPI",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/PeterL1n/RobustVideoMatting",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/guardicore/monkey",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/isnowfy/snownlp",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/qubvel/segmentation_models.pytorch",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/b-ryan/powerline-shell",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/docker/docker-py",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/Netflix/metaflow",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/mahmoud/boltons",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/python-visualization/folium",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/googleapis/google-api-python-client",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/deepmipt/DeepPavlov",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/devicons/devicon",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/1adrianb/face-alignment",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Shougo/deoplete.nvim",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/jarun/googler",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/worldveil/dejavu",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/gevent/gevent",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/brython-dev/brython",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/chrissimpkins/codeface",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/sqlalchemy/sqlalchemy",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/xchaoinfo/fuck-login",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/donnemartin/dev-setup",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/snare/voltron",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Yelp/dumb-init",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/joeyespo/grip",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/GoogleCloudPlatform/python-docs-samples",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/vibora-io/vibora",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/taigaio/taiga-back",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/webpy/webpy",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/lmcinnes/umap",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/saulpw/visidata",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/frostming/legit",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/OpenNMT/OpenNMT-py",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/nl8590687/ASRT_SpeechRecognition",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pythonstock/stock",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/milesial/Pytorch-UNet",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/onionshare/onionshare",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/snorkel-team/snorkel",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/jarun/buku",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/PaddlePaddle/PaddleSeg",
+        "branch": "release/2.6"
+    },
+    {
+        "url": "https://github.com/SpiderClub/haipproxy",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/theskumar/python-dotenv",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/airbnb/knowledge-repo",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/datawhalechina/easy-rl",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/rmax/scrapy-redis",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Morizeyao/GPT2-Chinese",
+        "branch": "old_gpt_2_chinese_before_2021_4_22"
+    },
+    {
+        "url": "https://github.com/deepset-ai/haystack",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/sensepost/objection",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/xiaoming2028/FreePAC",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/flask-admin/flask-admin",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/jerry-git/learn-python3",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ChrisKnott/Eel",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Kozea/WeasyPrint",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/dgtlmoon/changedetection.io",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/py-why/dowhy",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/wireservice/csvkit",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/SublimeCodeIntel/SublimeCodeIntel",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/PyCQA/isort",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/10se1ucgo/DisableWinTracking",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/PaddlePaddle/ERNIE",
+        "branch": "ernie-kit-open-v1.0"
+    },
+    {
+        "url": "https://github.com/codertimo/BERT-pytorch",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/davidhalter/jedi-vim",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/SmirkCao/Lihang",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/navdeep-G/setup.py",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/scikit-image/scikit-image",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/kubernetes-client/python",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/donnemartin/saws",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/facebookresearch/SlowFast",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/facebookresearch/mmf",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/wbt5/real-url",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/carlospolop/hacktricks",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/TheKingOfDuck/fuzzDicts",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pyca/cryptography",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/thu-ml/tianshou",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/chineseocr/chineseocr",
+        "branch": "app"
+    },
+    {
+        "url": "https://github.com/sdispater/pendulum",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/kootenpv/whereami",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/StackStorm/st2",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/fogleman/Minecraft",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/MatrixTM/MHDDoS",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/tyiannak/pyAudioAnalysis",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Kaggle/kaggle-api",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/lawlite19/MachineLearning_Python",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/QingdaoU/OnlineJudge",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/martinblech/xmltodict",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/xiaolai/regular-investing-in-box",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/zalando/patroni",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/euske/pdfminer",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/nteract/papermill",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/sphinx-doc/sphinx",
+        "branch": "5.x"
+    },
+    {
+        "url": "https://github.com/kuangliu/pytorch-cifar",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/0x5e/wechat-deleted-friends",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/python-trio/trio",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/conda/conda",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/hugsy/gef",
+        "branch": "dev"
+    },
+    {
+        "url": "https://github.com/google/clusterfuzz",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/facebook/PathPicker",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/DEAP/deap",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/mdbloice/Augmentor",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pwndbg/pwndbg",
+        "branch": "dev"
+    },
+    {
+        "url": "https://github.com/miguelgrinberg/Flask-SocketIO",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/aidlearning/AidLearning-FrameWork",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/mbadry1/DeepLearning.ai-Summary",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/mzucker/noteshrink",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/minimaxir/textgenrnn",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/thunil/TecoGAN",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/liangliangyy/DjangoBlog",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/SpiderClub/weibospider",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/sammchardy/python-binance",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/buildbot/buildbot",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/hpcaitech/ColossalAI",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/py-pdf/PyPDF2",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/astorfi/TensorFlow-World",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/hummingbot/hummingbot",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/xmendez/wfuzz",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/sripathikrishnan/redis-rdb-tools",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/facebookresearch/AugLy",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/RangiLyu/nanodet",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/PyQt5/PyQt",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/django-crispy-forms/django-crispy-forms",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/nccgroup/ScoutSuite",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/PaddlePaddle/PaddleSpeech",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/bridgecrewio/checkov",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/zhm-real/PathPlanning",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/stephenmcd/mezzanine",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pytransitions/transitions",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/mininet/mininet",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Tautulli/Tautulli",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/unit8co/darts",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/wepe/MachineLearning",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Datalux/Osintgram",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/openstack/openstack",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/bndr/pipreqs",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ajalt/fuckitpy",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/dbolya/yolact",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/jorgebastida/awslogs",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/NVlabs/stylegan3",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/espressif/esptool",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/okfn-brasil/serenata-de-amor",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/snipsco/snips-nlu",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Baekalfen/PyBoy",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Pylons/pyramid",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/internetarchive/openlibrary",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pandolia/qqbot",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ct-Open-Source/tuya-convert",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/FortyNorthSecurity/EyeWitness",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/cjhutto/vaderSentiment",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/scrapinghub/splash",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/mongodb/mongo-python-driver",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pyinvoke/invoke",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/rsalmei/alive-progress",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/facebookresearch/metaseq",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/TechXueXi/TechXueXi",
+        "branch": "developing"
+    },
+    {
+        "url": "https://github.com/cloudflare/flan",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/yhat/ggpy",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/endernewton/tf-faster-rcnn",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/googlemaps/google-maps-services-python",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/quark0/darts",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/YunYang1994/tensorflow-yolov3",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/XPixelGroup/BasicSR",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/gitpython-developers/GitPython",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/qilingframework/qiling",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/shidenggui/easyquotation",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/taoufik07/responder",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ethereum/web3.py",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/xfangfang/Macast",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/imWildCat/scylla",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/pavelgonchar/colornet",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/dabeaz/python-cookbook",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/PaddlePaddle/PaddleClas",
+        "branch": "release/2.4"
+    },
+    {
+        "url": "https://github.com/jcjohnson/pytorch-examples",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Netflix/security_monkey",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/lucidrains/deep-daze",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/serengil/deepface",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/jessevig/bertviz",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/facebookresearch/DrQA",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/cloud-custodian/cloud-custodian",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ohld/igbot",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/voila-dashboards/voila",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/rafaelpadilla/Object-Detection-Metrics",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pypa/virtualenv",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/Qix-/better-exceptions",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Kinto/kinto",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/MorvanZhou/Tensorflow-Tutorial",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/navdeep-G/samplemod",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pudo/dataset",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/schenkd/nginx-ui",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/rtqichen/torchdiffeq",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/danielgatis/rembg",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/facebookresearch/mae",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/misterch0c/shadowbroker",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/cookiecutter-flask/cookiecutter-flask",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/open-mmlab/mmcv",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/coleifer/huey",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/google/grr",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/open-mmlab/mmsegmentation",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/DA-southampton/NLP_ability",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/vinayak-mehta/present",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/hylang/hy",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/lucidrains/imagen-pytorch",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/OmkarPathak/pygorithm",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ReactiveX/RxPY",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/stewartmcgown/uds",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/liuhuanyong/QASystemOnMedicalKG",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/LazoCoder/Pokemon-Terminal",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/listen1/listen1",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/derv82/wifite2",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/HJLebbink/asm-dude",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/kellyjonbrazil/jc",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/corna/me_cleaner",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/googleapis/google-cloud-python",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/aladdinpersson/Machine-Learning-Collection",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/s3tools/s3cmd",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/emre/storm",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/tensortrade-org/tensortrade",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Instagram/MonkeyType",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/frappe/frappe",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/triton-inference-server/server",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/bigchaindb/bigchaindb",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/junyanz/iGAN",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/shobrook/rebound",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/vantage-sh/ec2instances.info",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/facebookresearch/Kats",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/CouchPotato/CouchPotatoServer",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/jisaacks/GitGutter",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/PaddlePaddle/PaddleX",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/jayfk/statuspage",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/chrippa/livestreamer",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/nvdv/vprof",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/archlinux/archinstall",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/yosinski/deep-visualization-toolbox",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/facebookresearch/dino",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/Python3WebSpider/ProxyPool",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/charlesq34/pointnet",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/MechanicalSoup/MechanicalSoup",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/spec-first/connexion",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/hhyo/Archery",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Ultimaker/Cura",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/rasbt/mlxtend",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/boltgolt/howdy",
+        "branch": "beta"
+    },
+    {
+        "url": "https://github.com/pytorch/ignite",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/waydroid/waydroid",
+        "branch": "bullseye"
+    },
+    {
+        "url": "https://github.com/rootphantomer/Blasting_dictionary",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/miguelgrinberg/microblog",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/cowrie/cowrie",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pytoolz/toolz",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/jd/tenacity",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/andresriancho/w3af",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/avinassh/rockstar",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/qubvel/segmentation_models",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Guake/guake",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/facebookarchive/codemod",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/plamere/spotipy",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/HIT-SCIR/ltp",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/mozillazg/python-pinyin",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/zhzyker/exphub",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/santinic/pampy",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/goodfeli/adversarial",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Netflix/dispatch",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/gaubert/gmvault",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/zzzeek/sqlalchemy",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/feast-dev/feast",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/mherrmann/fbs",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/open-mmlab/mmediting",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/orakaro/rainbowstream",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/jazzband/django-silk",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/tmux-python/tmuxp",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/RoganDawes/P4wnP1",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/astropy/astropy",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/shibing624/pycorrector",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/anudeepND/whitelist",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/derrod/legendary",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/guofei9987/scikit-opt",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ansible-community/molecule",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/elceef/dnstwist",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/infobyte/faraday",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/NVlabs/imaginaire",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Qiskit/qiskit-terra",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/spulec/freezegun",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/byt3bl33d3r/MITMf",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/instantbox/instantbox",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/s0md3v/Arjun",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/aws-samples/aws-cdk-examples",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/coala/coala",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/billryan/algorithm-exercise",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ClusterHQ/flocker",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/wal-e/wal-e",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/tensorflow/datasets",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/bear/python-twitter",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Cog-Creators/Red-DiscordBot",
+        "branch": "V3/develop"
+    },
+    {
+        "url": "https://github.com/ab77/netflix-proxy",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Newmu/dcgan_code",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pytorch/captum",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/facebookresearch/nevergrad",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/bchao1/bullet",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pythonguis/15-minute-apps",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/django-haystack/django-haystack",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/arielf/weight-loss",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/geex-arts/django-jet",
+        "branch": "dev"
+    },
+    {
+        "url": "https://github.com/minivision-ai/photo2cartoon",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/foolwood/SiamMask",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/podgorskiy/ALAE",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/gaojiuli/toapi",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/eragonruan/text-detection-ctpn",
+        "branch": "banjin-dev"
+    },
+    {
+        "url": "https://github.com/cleardusk/3DDFA",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/layumi/Person_reID_baseline_pytorch",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pwr-Solaar/Solaar",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/run-youngjoo/SC-FEGAN",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ysrc/xunfeng",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/bisguzar/twitter-scraper",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/AonCyberLabs/Windows-Exploit-Suggester",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/rspeer/python-ftfy",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/madhavanmalolan/awesome-reactnative-ui",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/fonttools/fonttools",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/ThilinaRajapakse/simpletransformers",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/miyakogi/pyppeteer",
+        "branch": "dev"
+    },
+    {
+        "url": "https://github.com/ckan/ckan",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/victoresque/pytorch-template",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/aaPanel/BaoTa",
+        "branch": "7.x"
+    },
+    {
+        "url": "https://github.com/NVIDIA-AI-IOT/torch2trt",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/wzpan/wukong-robot",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/quantumlib/Cirq",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/qtile/qtile",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/DanMcInerney/wifijammer",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/facebookresearch/moco",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/martinarjovsky/WassersteinGAN",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/DIGITALCRIMINAL/OnlyFans",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/trailofbits/manticore",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/guohongze/adminset",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/SublimeText-Markdown/MarkdownEditing",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/thearn/webcam-pulse-detector",
+        "branch": "no_openmdao"
+    },
+    {
+        "url": "https://github.com/Latitude-Archives/AIDungeon",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/constverum/ProxyBroker",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pypi/warehouse",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/TuSimple/simpledet",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/tortoise/tortoise-orm",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/flasgger/flasgger",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/aiortc/aiortc",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/boppreh/keyboard",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/secretsquirrel/the-backdoor-factory",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ticarpi/jwt_tool",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pika/pika",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/fullhunt/log4j-scan",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/minimaxir/gpt-2-simple",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/bitsadmin/wesng",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/codemayq/chinese_chatbot_corpus",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/flexxui/flexx",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/what-studio/profiling",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/wzhe06/Reco-papers",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/encode/databases",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/P0cL4bs/WiFi-Pumpkin-deprecated",
+        "branch": "deprecated"
+    },
+    {
+        "url": "https://github.com/nidhaloff/igel",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/anandpawara/Real_Time_Image_Animation",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/mherrmann/selenium-python-helium",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/yandex/YaLM-100B",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/locuslab/TCN",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/freedomofpress/securedrop",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/bottlesdevs/Bottles",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Wookai/paper-tips-and-tricks",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ResidentMario/missingno",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Veil-Framework/Veil",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/imfht/fanhaodaquan",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/lyhue1991/eat_pytorch_in_20_days",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/aziz/PlainTasks",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/bytedance/byteps",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pywebio/PyWebIO",
+        "branch": "dev"
+    },
+    {
+        "url": "https://github.com/libratbag/piper",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/commixproject/commix",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/timofurrer/maya",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/google/it-cert-automation-practice",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ageitgey/face_recognition",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/udacity/fullstack-nanodegree-vm",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/andyzys/jd_seckill",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/TeamUltroid/Ultroid",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/yandex-praktikum/backend_test_homework",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/streamlit/streamlit-example",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/breakdowns/slam-mirrorbot",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/frappe/erpnext",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/Jack-Cherish/Machine-Learning",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Prince-Mendiratta/X-tra-Telegram",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/rougier/numpy-100",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ShangtongZhang/reinforcement-learning-an-introduction",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/scipy/scipy",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/waditu/tushare",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/kyb3r/modmail",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/jenkins-docs/simple-python-pyinstaller-app",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/rbgirshick/py-faster-rcnn",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/tweepy/tweepy",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/injetlee/Python",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/sympy/sympy",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/shengqiangzhang/examples-of-web-crawlers",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Rapptz/discord.py",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/awslabs/aws-cloudformation-templates",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/jindongwang/transferlearning",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ultralytics/yolov3",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/bbfamily/abu",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/localstack/localstack",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ddbourgin/numpy-ml",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/jerryma119/goagent",
+        "branch": "3.0"
+    },
+    {
+        "url": "https://github.com/LEGEND-OS/LEGENDBOT",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pjialin/py12306",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/TeamYukki/YukkiMusicBot",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/buckyroberts/Source-Code-from-Tutorials",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/bloominstituteoftechnology/Intro-Python-I",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/udacity/OAuth2.0",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/PaddlePaddle/models",
+        "branch": "release/2.3"
+    },
+    {
+        "url": "https://github.com/mementum/backtrader",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/oreilly-japan/deep-learning-from-scratch",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ansible/awx",
+        "branch": "devel"
+    },
+    {
+        "url": "https://github.com/bloominstituteoftechnology/Data-Structures",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/SecureAuthCorp/impacket",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/dennybritz/cnn-text-classification-tf",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/jupyter/docker-stacks",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/bloominstituteoftechnology/Sprint-Challenge--Intro-Python",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/gregmalcolm/python_koans",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/wkentaro/labelme",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/aosp-mirror/platform_development",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Dod-o/Statistical-Learning-Method_Code",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/yutiansut/QUANTAXIS",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/brightmart/text_classification",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/bloominstituteoftechnology/Graphs",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/bloominstituteoftechnology/Intro-Python-II",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/CodeXBotz/File-Sharing-Bot",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/eriklindernoren/PyTorch-YOLOv3",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/statsmodels/statsmodels",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/Theano/Theano",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/meolu/walle-web",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/networkx/networkx",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/jleetutorial/dockerapp",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/openstack/nova",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ylqfp/shadowsocks",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/tgalal/yowsup",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Azure/azure-cli",
+        "branch": "dev"
+    },
+    {
+        "url": "https://github.com/amueller/word_cloud",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/allenai/allennlp",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/Uberi/speech_recognition",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ros/rosdistro",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pytest-dev/pytest",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/QuantEcon/QuantEcon.py",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ronreiter/interactive-tutorials",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/wiseodd/generative-models",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pythonprobr/pythonbirds",
+        "branch": "simples"
+    },
+    {
+        "url": "https://github.com/taobao/nginx-book",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/udacity/cd0157-Server-Deployment-and-Containerization",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ansible/ansible-modules-core",
+        "branch": "devel"
+    },
+    {
+        "url": "https://github.com/OWASP/owasp-mstg",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/fizyr/keras-retinanet",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/edeng23/binance-trade-bot",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/mzeyong/shadowbroker",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/bloominstituteoftechnology/Computer-Architecture",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Showndarya/Hacktoberfest",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/developers-against-repressions/case-212",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/udacity/Full-Stack-Foundations",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/maurosoria/dirsearch",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/django-oscar/django-oscar",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/udacity/ud036_StarterCode",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/novatorem/novatorem",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/kanbertasli/gaih-students-repo-example",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/beetbox/beets",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ehmatthes/pcc",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/kryton/hue",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/udacity/CarND-Behavioral-Cloning-P3",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/amdegroot/ssd.pytorch",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/viperadnan-git/google-drive-telegram-bot",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/facebookresearch/detr",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/jadore801120/attention-is-all-you-need-pytorch",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/axi0mX/ipwndfu",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/tensorflow/hub",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/espnet/espnet",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pymc-devs/pymc",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/mgp25/classesMD5-64",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/microsoft/qlib",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/ranaroussi/yfinance",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/searx/searx",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/boto/boto3",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/mwaskom/seaborn",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Zumbalamambo/tf-openpose",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/gaussic/text-classification-cnn-rnn",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/openstack/neutron",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/dwyl/english-words",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/cloudtools/troposphere",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/qq547276542/Agriculture_KnowledgeGraph",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/sshwsfc/xadmin",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Ishaan28malik/Hacktoberfest-2021",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Tianxiaomo/pytorch-YOLOv4",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/cgrok/selfbot.py",
+        "branch": "rewrite"
+    },
+    {
+        "url": "https://github.com/alexjc/neural-enhance",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/agermanidis/autosub",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/subinps/VCPlayerBot",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/bottlepy/bottle",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/utkuozbulak/pytorch-cnn-visualizations",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/DeepLabCut/DeepLabCut",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/bloominstituteoftechnology/Sorting",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Anthonymcqueen21/DataCamp",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/3b1b/videos",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ZainCheung/netease-cloud",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/TheSpeedX/TBomb",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Jack-Lee-Hiter/AlgorithmsByPython",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/python/peps",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/tssovi/grokking-the-object-oriented-design-interview",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/FDUCSLG/pafd-automated",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/instillai/machine-learning-course",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Kyubyong/transformer",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/mail-in-a-box/mailinabox",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/udacity/nd064_course_1",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/Turonk/infra_actions",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/macanv/BERT-BiLSTM-CRF-NER",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/shubhampachori12110095/DeepMindBreak",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/LionSec/katoolin",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/MongoEngine/mongoengine",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/OCA/server-tools",
+        "branch": "14.0"
+    },
+    {
+        "url": "https://github.com/engineer-man/youtube",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/bsmali4/xssfork",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/miztiik/AWS-Demos",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/bloominstituteoftechnology/cs-module-project-iterative-sorting",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/hunkim/PyTorchZeroToAll",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/naturomics/CapsNet-Tensorflow",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/aymericdamien/TopDeepLearning",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/openvinotoolkit/open_model_zoo",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/k652/daily_fudan",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/josiahcarlson/redis-in-action",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/LonamiWebs/Telethon",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/hunglc007/tensorflow-yolov4-tflite",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/r0oth3x49/udemy-dl",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/bloominstituteoftechnology/cs-module-project-recursive-sorting",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/hu619340515/jd_seckill-1",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/subinps/MusicPlayer",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/bhattsameer/Bombers",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/talkpython/python-for-absolute-beginners-course",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/docker-archive/docker-registry",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/abidrahmank/OpenCV2-Python-Tutorials",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/zhaoyingjun/chatbot",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/alan-turing-institute/sktime",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/open-mmlab/OpenPCDet",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/PyCQA/pylint",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/python-openxml/python-docx",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/microsoft/MLOpsPython",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/hcientist/OnlinePythonTutor",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/allanzelener/YAD2K",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/bojone/bert4keras",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/stamparm/maltrail",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/GeorgeSeif/Semantic-Segmentation-Suite",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/GoogleCloudPlatform/cloudml-samples",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/msr00t/0day",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/shenweichen/GraphEmbedding",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/AirtestProject/Airtest",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/p2pool/p2pool",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/alexaorrico/AirBnB_clone_v2",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/649453932/Chinese-Text-Classification-Pytorch",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/CSAILVision/semantic-segmentation-pytorch",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/GoogleCloudPlatform/kubernetes-engine-samples",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/thunlp/OpenNRE",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/OpenShiftDemos/os-sample-python",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pyserial/pyserial",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/joshua-wu/deepfakes_faceswap",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/geekan/scrapy-examples",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/fruitpunchsamurai2/magneto-python-aria",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/openshift-roadshow/nationalparks-py",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/domlysz/BlenderGIS",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/sherjilozair/char-rnn-tensorflow",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/H1R0GH057/Anonymous",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/swaroopch/byte-of-python",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/PyImageSearch/imutils",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Dstar4/Hash-Tables",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/lijiejie/subDomainsBrute",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/MIC-DKFZ/nnUNet",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/conan-io/conan-center-index",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/semaphoreci-demos/semaphore-demo-python-django",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/boto/botocore",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/weiaicunzai/pytorch-cifar100",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pyro-ppl/pyro",
+        "branch": "dev"
+    },
+    {
+        "url": "https://github.com/alexjc/neural-doodle",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/PaulSonOfLars/tgbot",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/apache/libcloud",
+        "branch": "trunk"
+    },
+    {
+        "url": "https://github.com/Rayhane-mamah/Tacotron-2",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/docker-training/webapp",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/yoshiko2/Movie_Data_Capture",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/awesto/django-shop",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/linuxacademy/content-gitops",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ceph/ceph-ansible",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/frappe/bench",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/microsoft/MMdnn",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/No-OnE-Kn0wS-Me/FileRenameBot",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/offu/WeRoBot",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/vprusso/youtube_tutorials",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/FeeiCN/Cobra",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/yunjey/stargan",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/androguard/androguard",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pluralsight-projects/python-static-site-generator",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/xiaofengShi/CHINESE-OCR",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ArduPilot/ardupilot_wiki",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/msracver/Deformable-ConvNets",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/swapagarwal/JARVIS-on-Messenger",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/PrefectHQ/prefect",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/kawsarhussen16/Sprint-Challenge--Hash-BC",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/hudson-and-thames/mlfinlab",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/TeamDaisyX/DaisyXMusic",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/mindsdb/mindsdb",
+        "branch": "staging"
+    },
+    {
+        "url": "https://github.com/pyrogram/pyrogram",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/NicolasHug/Surprise",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/google/diff-match-patch",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/exercism/python",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/jerry3747/taobao_seckill",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/coffeehb/Some-PoC-oR-ExP",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pyqtgraph/pyqtgraph",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Ehco1996/django-sspanel",
+        "branch": "dev"
+    },
+    {
+        "url": "https://github.com/aws/chalice",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Determined22/zh-NER-TF",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/numba/numba",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/ansible-collections/community.general",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/Esri/arcgis-python-api",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/jinfagang/tensorflow_poems",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ngiengkianyew/daily-coding-problem",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Avik-Jain/100-Days-of-ML-Code-Chinese-Version",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/kliment/Printrun",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/openai/universe",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/udf/uniborg",
+        "branch": "kate"
+    },
+    {
+        "url": "https://github.com/facebookresearch/pytorch3d",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/qiwsir/StarterLearningPython",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/chatopera/Synonyms",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/google/youtube-8m",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Trusted-AI/adversarial-robustness-toolbox",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/DalinMathew/AutoFilterBotV3",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/bitcraze/crazyflie-lib-python",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/dbader/schedule",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Kaggle/docker-python",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/selfteaching/selfteaching-python-camp",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Hari-Nagarajan/fairgame",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/maurock/snake-ga",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/stark666/smzdm_bot",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/hello8817/jd-seckill-maotai",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/bloominstituteoftechnology/Blockchain",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/NVlabs/stylegan2-ada-pytorch",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/gitpitch/in-60-seconds",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/wbond/package_control",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/learn-co-students/applying-gradient-descent-lab-data-science-intro-000",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ferronrsmith/programming-collective-intelligence-code",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/tensorlayer/srgan",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/thumbor/thumbor",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ufoym/deepo",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/hankcs/pyhanlp",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/micropython/micropython-lib",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/jfzhang95/pytorch-deeplab-xception",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/googleworkspace/python-samples",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/devsisters/DQN-tensorflow",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pycontribs/jira",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/rking32/HelperScript",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/qiwsir/ITArticles",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/gxcuizy/Python",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/hyperledger/sawtooth-core",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/ycm-core/ycmd",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Python-Markdown/markdown",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/RasaHQ/rasa-demo",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/rougier/matplotlib-tutorial",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/guelfoweb/knock",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/elastic/elasticsearch-dsl-py",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/zhengyima/DeepNude_NoWatermark_withModel",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/AsmSafone/VideoPlayerBot",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/EntySec/Ghost",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/prakhar1989/Algorithms",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/TheHamkerCat/Telegram_VC_Bot",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/MaybeShewill-CV/lanenet-lane-detection",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/llSourcell/YOLO_Object_Detection",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ROBOTIS-GIT/turtlebot3",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ros2/ros2_documentation",
+        "branch": "rolling"
+    },
+    {
+        "url": "https://github.com/cl2333/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/yanshengjia/ml-road",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/sightmachine/SimpleCV",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Ha3MrX/DDos-Attack",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/matplotlib/cheatsheets",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/galaxyproject/galaxy",
+        "branch": "dev"
+    },
+    {
+        "url": "https://github.com/freqtrade/freqtrade-strategies",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/pybrain/pybrain",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/rwv/chinese-dos-games",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/devmanorg/2_wallie_how_are_you",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/InstaPy/instapy-quickstart",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/abisee/pointer-generator",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Cluas/189checkin",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/open-mmlab/mmdetection3d",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/watson-developer-cloud/python-sdk",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/letiantian/TextRank4ZH",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Kapeli/Dash-User-Contributions",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/je-suis-tm/quant-trading",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/RsaCtfTool/RsaCtfTool",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/gwen001/pentest-tools",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/howie6879/owllook",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/githubharald/SimpleHTR",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/WeblateOrg/weblate",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/facebookresearch/dlrm",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/Tencent/FaceDetection-DSFD",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Rudrabha/Wav2Lip",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Veil-Framework/Veil-Evasion",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/PokeAPI/pokeapi",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/yehengchen/Object-Detection-and-Tracking",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ZhaoJ9014/face.evoLVe",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/JiahuiYu/generative_inpainting",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/scrtlabs/catalyst",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/awslabs/aws-config-rules",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/django-import-export/django-import-export",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/eliben/code-for-blog",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/OTRF/ThreatHunter-Playbook",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/awslabs/aws-support-tools",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/rlcode/reinforcement-learning",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/websocket-client/websocket-client",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/guillaumegenthial/sequence_tagging",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Azure/azure-cli-extensions",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/ros-industrial/universal_robot",
+        "branch": "kinetic-devel"
+    },
+    {
+        "url": "https://github.com/NTMC-Community/MatchZoo",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/keras-team/keras-applications",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/echonest/pyechonest",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Mjrovai/OpenCV-Face-Recognition",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/OpenDroneMap/ODM",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/karpathy/minGPT",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/QueenArzoo/VCPlayBot",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/mxrch/GHunt",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/flask-restful/flask-restful",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/openedx/configuration",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/detailyang/awesome-cheatsheet",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/hanbt/learn_dl",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/KaiyangZhou/deep-person-reid",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/hyperopt/hyperopt",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Mebus/cupp",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/googleads/googleads-python-lib",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/urllib3/urllib3",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/Lasagne/Lasagne",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/maxme/bitcoin-arbitrage",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/udacity/ud330",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ckreibich/scholar.py",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/jschneier/django-storages",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/hacs/integration",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/longld/peda",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/aryanvikash/Youtube-Downloader-Bot",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/PegasusWang/python_data_structures_and_algorithms",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/confluentinc/confluent-kafka-python",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Roshanson/TextInfoExp",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/mhallsmoore/qstrader",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Jijinr/Frwdit",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/zhuinfo/Django-ERP",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/lijiejie/GitHack",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/mdn/kuma",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/xuminzhong/goagent",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/mapillary/OpenSfM",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/poise/python",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/PaddlePaddle/Research",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/justinbois/bootcamp",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/nltk/nltk_data",
+        "branch": "gh-pages"
+    },
+    {
+        "url": "https://github.com/DataDog/dd-agent",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/wepe/O2O-Coupon-Usage-Forecast",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/speechbrain/speechbrain",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/microsoft/DeepSpeed",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/celery/kombu",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/yoonkim/CNN_sentence",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ActiveState/code",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/riptideio/pymodbus",
+        "branch": "dev"
+    },
+    {
+        "url": "https://github.com/vyperlang/vyper",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/kedro-org/kedro",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/MTG/sms-tools",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/mopidy/mopidy",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/james-gray/nagini",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/bfortuner/ml-glossary",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/bradtraversy/python_sandbox",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/udacity/AIND-Sudoku",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/justinmeister/Mario-Level-1",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/arshsisodiya/helios-mirror",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/PacktPublishing/Django-3-by-Example",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/prometheus/client_python",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/realpython/python-scripts",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/gliese581gg/YOLO_tensorflow",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/InsaneLife/ChineseNLPCorpus",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/philipperemy/keras-attention-mechanism",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/jesolem/PCV",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/MicroPyramid/Django-CRM",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ctfs/write-ups-2014",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/canonical/microk8s",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/sap-tutorials/Tutorials",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/microsoft/nni",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/RunaCapital/awesome-oss-alternatives",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/tgbot-collection/YYeTsBot",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/tonybeltramelli/pix2code",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/SFTtech/openage",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/matrix-org/synapse",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/NVlabs/stylegan2",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/vipstone/faceai",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/heartexlabs/label-studio",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/pwxcoo/chinese-xinhua",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/lyhue1991/eat_tensorflow2_in_30_days",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/tiangolo/full-stack-fastapi-postgresql",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/nbedos/termtosvg",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/darknessomi/musicbox",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/KurtBestor/Hitomi-Downloader",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/deepmind/sonnet",
+        "branch": "v2"
+    },
+    {
+        "url": "https://github.com/Gallopsled/pwntools",
+        "branch": "dev"
+    },
+    {
+        "url": "https://github.com/fossasia/visdom",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/harelba/q",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/encode/httpx",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/x-hw/amazing-qr",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+        "branch": "eeeeeeeeeeeeeeeeeeeeeeee"
+    },
+    {
+        "url": "https://github.com/NVIDIA/DeepLearningExamples",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/facebookresearch/ParlAI",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/rushter/MLAlgorithms",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pyodide/pyodide",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/bloomberg/memray",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/s0md3v/Photon",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/facebook/chisel",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/ytisf/theZoo",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/seatgeek/fuzzywuzzy",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/EZFNDEV/EZFN-Lobbybot",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/lazyprogrammer/machine_learning_examples",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ajenti/ajenti",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/bup/bup",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/OctoPrint/OctoPrint",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/optuna/optuna",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/shidenggui/easytrader",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/hugapi/hug",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/awslabs/aws-shell",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/doccano/doccano",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/dylanaraps/pywal",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pyeve/eve",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/adamian98/pulse",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/houtianze/bypy",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/paramiko/paramiko",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/tiangolo/sqlmodel",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/streamlink/streamlink",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/the-paperless-project/paperless",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/altair-viz/altair",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/docopt/docopt",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/modin-project/modin",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/deepmind/pysc2",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pytube/pytube",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/AlessandroZ/LaZagne",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/yandex/gixy",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/lanpa/tensorboardX",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/aboul3la/Sublist3r",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/baowenbo/DAIN",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/fail2ban/fail2ban",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pennersr/django-allauth",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/jofpin/trape",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ocrmypdf/OCRmyPDF",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/kornia/kornia",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/microsoft/playwright-python",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/conan-io/conan",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/spulec/moto",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/geerlingguy/ansible-for-devops",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ctf-wiki/ctf-wiki",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/HIPS/autograd",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/SirVer/ultisnips",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/jupyterhub/jupyterhub",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/schollz/howmanypeoplearearound",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/NVIDIA/apex",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/xingyizhou/CenterNet",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/jrnl-org/jrnl",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/jacobgil/pytorch-grad-cam",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/smacke/ffsubsync",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/anishathalye/neural-style",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/mwouts/jupytext",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/arogozhnikov/einops",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/django/channels",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/healthchecks/healthchecks",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/nuno-faria/tiler",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/jonaswinkler/paperless-ng",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/karpathy/arxiv-sanity-preserver",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/k4yt3x/video2x",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/twisted/twisted",
+        "branch": "trunk"
+    },
+    {
+        "url": "https://github.com/awslabs/autogluon",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/lucidrains/DALLE-pytorch",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/Shawn-Shan/fawkes",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/MingchaoZhu/DeepLearning",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/PyCQA/pycodestyle",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/ricequant/rqalpha",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/tschellenbach/Stream-Framework",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/PaddlePaddle/PaddleNLP",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/humphd/have-fun-with-machine-learning",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ecthros/uncaptcha2",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/PeterDing/iScript",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/dpkp/kafka-python",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/KevinMusgrave/pytorch-metric-learning",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/diafygi/acme-tiny",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/posativ/isso",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/NullArray/AutoSploit",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/commonmark/commonmark-spec",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/oppia/oppia",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/instaloader/instaloader",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/senguptaumd/Background-Matting",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/openatx/uiautomator2",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/sqlfluff/sqlfluff",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/alirezamika/autoscraper",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/tychxn/jd-assistant",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ujjwalkarn/DataSciencePython",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/michael-lazar/rtv",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/joerick/pyinstrument",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/prompt-toolkit/ptpython",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/NVIDIA/NeMo",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/unifyai/ivy",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/neozhaoliang/pywonderland",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/hephaest0s/usbkill",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/nwojke/deep_sort",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/STVIR/pysot",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Blizzard/s2client-proto",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/fo40225/tensorflow-windows-wheel",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/TheLocehiliosan/yadm",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ijl/orjson",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/elebumm/RedditVideoMakerBot",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/evhub/coconut",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/online-ml/river",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/EnableSecurity/wafw00f",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pythonprofilers/memory_profiler",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/cleanlab/cleanlab",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/reinderien/mimic",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/elastic/elasticsearch-py",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/AceLewis/my_first_calculator.py",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/garrettj403/SciencePlots",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/RomelTorres/alpha_vantage",
+        "branch": "develop"
+    },
+    {
+        "url": "https://github.com/geopy/geopy",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/xxh/xxh",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/buriburisuri/speech-to-text-wavenet",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/paperless-ngx/paperless-ngx",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/getsentry/responses",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/zq1997/deepin-wine",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/SpiderLabs/Responder",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/emissary-ingress/emissary",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/bentoml/BentoML",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/Mailu/Mailu",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/google/pytype",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/fastmonkeys/stellar",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/django-tastypie/django-tastypie",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/carltongibson/django-filter",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/pdfminer/pdfminer.six",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/deepchem/deepchem",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/PokemonGoF/PokemonGo-Bot",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/jamalex/notion-py",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/donnemartin/haxor-news",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/TachibanaYoshino/AnimeGAN",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/gbeced/pyalgotrade",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/idealo/image-super-resolution",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/gboeing/osmnx",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/floydhub/dl-docker",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/dabeaz/curio",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/qiyeboy/IPProxyPool",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/DLR-RM/stable-baselines3",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/the0demiurge/ShadowSocksShare",
+        "branch": "dev"
+    },
+    {
+        "url": "https://github.com/blaze/blaze",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/cemoody/lda2vec",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ssut/py-googletrans",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/attardi/wikiextractor",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/not-kennethreitz/osx-gcc-installer",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/cirosantilli/linux-kernel-module-cheat",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/pytorch/text",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/ZiniuLu/Python-100-Days",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/daviddrysdale/python-phonenumbers",
+        "branch": "dev"
+    },
+    {
+        "url": "https://github.com/overviewer/Minecraft-Overviewer",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/0xHJK/music-dl",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/motioneye-project/motioneye",
+        "branch": "python2"
+    },
+    {
+        "url": "https://github.com/zhanghang1989/ResNeSt",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/mantl/mantl",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/r0x0r/pywebview",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/geopandas/geopandas",
+        "branch": "main"
+    },
+    {
+        "url": "https://github.com/Project-MONAI/MONAI",
+        "branch": "dev"
+    },
+    {
+        "url": "https://github.com/django-guardian/django-guardian",
+        "branch": "devel"
+    },
+    {
+        "url": "https://github.com/lincolnloop/python-qrcode",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/ThoughtfulDev/EagleEye",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/RedisJSON/RedisJSON",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/eudicots/Cactus",
+        "branch": "master"
+    }
+]

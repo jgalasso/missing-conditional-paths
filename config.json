@@ -1,0 +1,11 @@
+{
+    "output_csv": "./dataset/dataset.csv",
+    "directory_before": "./dataset/methods_before/",
+    "directory_after": "./dataset/methods_after/",
+    "directory_fragments": "./dataset/fragments/",
+    "projects": [
+    {
+        "url": "https://github.com/public-apis/public-apis",
+        "branch": "master"
+    }]
+}
